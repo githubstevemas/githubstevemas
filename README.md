@@ -10,4 +10,6 @@ As a young developer, I'm committed to continuous learning and improvement. I ac
 
 I'm eager to connect with fellow developers, collaborate on projects, and learn from each other's experiences. Let's chat and explore the exciting possibilities of Python together!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubstevemas&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubstevemas&layout=compact" alt="Top Langs" />
+</div>
