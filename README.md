@@ -8,13 +8,13 @@ After spending over 15 years as a manager in the retail industry, I've decided t
 ## Projects :wrench:
 Throughout my training, I've worked on a variety of projects, showcasing my skills in different areas of development:
 
-- **Algorithm Design**, Developing efficient algorithms to solve complex problems ([Project #1](https://github.com/githubstevemas/ChessArenaManager)).
-- **Web Scraping**, Extracting data from website to create meaningful datasets ([Project #1](https://github.com/githubstevemas/PyScraper)).
-- **Django**, Building robust web application ([Project #1](https://github.com/githubstevemas/LIT-Revu), [Project #2](https://github.com/githubstevemas/SoftDesk-Support)).
-- **UML Modeling**, Creating comprehensive UML diagrams and class diagrams ([Project #1](https://github.com/githubstevemas/PyScraper)).
-- **Technical Documentation**, Writing detailed project specifications and technical documentation ([Project #1](https://github.com/githubstevemas/CRM-Event-Manager)).
-- **Testing & Debugging**, Ensuring code quality through rigorous testing and debugging practices ([Project #1](https://github.com/githubstevemas/Python_Testing)).
-- **SQL**, Managing databases and performing complex queries using SQL ([Project #1](https://github.com/githubstevemas/CRM-Event-Manager)).
+- **Algorithm Design**, Developing efficient algorithms to solve complex problems.
+- **Web Scraping**, Extracting data from website to create meaningful datasets.
+- **Django**, Building robust web application.
+- **UML Modeling**, Creating comprehensive UML diagrams and class diagrams.
+- **Technical Documentation**, Writing detailed project specifications and technical documentation.
+- **Testing & Debugging**, Ensuring code quality through rigorous testing and debugging practices.
+- **SQL**, Managing databases and performing complex queries using SQL.
 
 ## Skills :books:
 - **Programming Languages**, Python, JavaScript
