@@ -6,15 +6,14 @@ I'm Steve, welcome you to my GitHub profile. Here, you'll find my projects, cont
 After spending over 15 years as a manager in the retail industry, I've decided to pivot my career towards my true passion: technology and computer science. This professional shift has led me to embark on a journey to become a developer. Currently, I'm immersed in a comprehensive Python training program, honing my skills and expanding my knowledge.
 
 ## Projects :wrench:
-Throughout my training, I've worked on a variety of projects, showcasing my skills in different areas of development:
+During my training, I worked on various projects. Here's a look at a few of them:
 
-- **Algorithm Design**, Developing efficient algorithms to solve complex problems.
-- **Web Scraping**, Extracting data from website to create meaningful datasets.
-- **Django**, Building robust web application.
-- **UML Modeling**, Creating comprehensive UML diagrams and class diagrams.
-- **Technical Documentation**, Writing detailed project specifications and technical documentation.
-- **Testing & Debugging**, Ensuring code quality through rigorous testing and debugging practices.
-- **SQL**, Managing databases and performing complex queries using SQL.
+- [CRM Event Manager](https://github.com/githubstevemas/CRM-Event-Manager) : Application designed to efficiently manage clients, events, and employees, with key features like secure user authentication, role-based access control, and full CRUD operations. It leverages SQLAlchemy for database interactions, JWT for authentication, and pytest for robust unit testing.
+- [SoftDesk Support](https://github.com/githubstevemas/SoftDesk-Support) : A Django-based API designed to help businesses efficiently manage and track technical issues. It emphasizes security with JWT for authentication, ensures GDPR-compliant data protection, and incorporates energy-efficient coding practices. The application is built using Django REST Framework and SQLite for development.
+- [Orange County Lettings](https://github.com/githubstevemas/Orange-County-Lettings) Django-based web application designed for property lettings. It integrates with AWS for secure storage and deployment, the project also emphasizes data integrity and scalability, making it ideal for large-scale property management systems. Containerized with Docker, it's easily deployable and comes with comprehensive documentation using Sphinx.
+- [PyScraper](https://github.com/githubstevemas/PyScraper) : Python tool utilizing Beautiful Soup to automate data extraction and image scraping, efficiently handling pagination and dynamic content, with outputs in configurable CSV formats.
+
+
 
 ## Skills :books:
 - **Programming Languages**, Python, JavaScript
@@ -25,13 +24,8 @@ Throughout my training, I've worked on a variety of projects, showcasing my skil
 - **Database**, PostgreSQL, SQLalchemy, Sentry monitoring
 
 ## Interests and Future Aspirations :rocket:
-I'm particularly interested in the fields of data science and artificial intelligence. As I continue my learning journey, I'm excited about the possibility of delving deeper into these areas and contributing to innovative projects that leverage data and AI technologies.
-
+I'm really into how data can be used to create meaningful insights. As I keep learning, I'm excited to dig deeper into transforming raw data into something valuable and contributing to projects that make the most of data-driven technologies
 ## Let's Connect! :incoming_envelope:
 I'm always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me via email at mas.ste@gmail.com.
 
 Thank you for visiting my profile, and I look forward to collaborating with you!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubstevemas&layout=compact" alt="Top Langs" />
-</div>
